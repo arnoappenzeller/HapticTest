@@ -108,7 +108,6 @@
 				TargetAttributes = {
 					11B11F0C1D942C91008CDE51 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = AW9CBV6SY7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -273,7 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = AW9CBV6SY7;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = HapticsTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = APPenzeller.HapticsTest;
@@ -286,7 +285,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = AW9CBV6SY7;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = HapticsTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = APPenzeller.HapticsTest;

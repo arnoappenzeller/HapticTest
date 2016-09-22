@@ -1,4 +1,4 @@
-![AppIcon](Ressources/Rounded/Artwork/iTunesArtwork.png)
+![AppIcon](Ressources/Rounded/AppIcon/Icon-60@2x.png)
 # HapticTest
 This little app lets you test the new feedback of the new UIFeedbackGenerator introduced with the iPhone 7.
 As little gimmick you can compare the new feedback with the good old vibration we used to know.
